@@ -1,0 +1,9 @@
+frmMainForm = 0, 1, 815, 660, C, 1, 0, 687, 504, C
+clsRegistry = 4, -2, 805, 660, C
+clsWaitCursor = 2, 1, 800, 660, C
+modListView = 0, 0, 815, 660, C
+modSysUtils = 1, 1, 814, 659, C
+modUndocShell32Defs = 2, 2, 811, 660, C
+modStringUtils = 0, -2, 815, 660, C
+modFormPos = 0, 3, 814, 660, C
+cLVHeaderSortIcons = 2, 2, 810, 658, C
